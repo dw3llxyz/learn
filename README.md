@@ -1,3 +1,7 @@
-# Introduction
+# Home
 
-Welcome to Dw3ll!
+
+
+
+
+<figure><img src=".gitbook/assets/dw3ll-logo.png" alt="" width="563"><figcaption></figcaption></figure>
